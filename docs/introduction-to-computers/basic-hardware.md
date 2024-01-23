@@ -10,8 +10,6 @@ sidebar_position: 2
 - Identify the role of CPU, memory, and input/output devices.
 - Understand the significance of peripherals in computer functionality.
 
--
-
 ![](https://lh7-us.googleusercontent.com/sDuX2d72aY3GvrmkZ0y2Q_rF1gMSw4B5Ay1hGZ4XUhrstg-2ItKIcgHsIOsle-qFseBNkp7t6aZ3PC3LoHY-Ph6JfkEtaKRJ3xEZOV5ikuQP-Jl3pjLvPV-CtDxCc0iNmHYPz3M6mNEZNmWe-H1t7j0)
 Computers are intricate machines composed of various hardware components that work together to process information. Understanding these components is crucial for anyone seeking to enhance their computer literacy. Let's break down the key aspects:
 
