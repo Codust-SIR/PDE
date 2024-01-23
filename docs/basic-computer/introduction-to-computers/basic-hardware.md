@@ -36,11 +36,12 @@ Think of the CPU as the brain of your computer. Its job is to do all the thinkin
 When you use your computer, you're giving it instructions. These instructions could be anything from opening a program to doing calculations. The CPU is like a superhero that takes these instructions and turns them into actions.
 
 ![](https://lh7-us.googleusercontent.com/MjUZpah9ogS7WPnGEUgp7Fz30hFoFXjOpenhoz6zecJFpDkbNcWh6M8TdLtjMO3CLt8iLII12uW7_cdJEyZg2vmkrUbLlgJTHgKeWhuWpYvc0KO0oK6g3d92ZM5b8hZSUjRKHH0QdMt-T7fbEGLeEtY)
-Inside the CPU, there are special parts like the Arithmetic Logic Unit (ALU) and the Control Unit. The ALU does math and logical operations, like adding numbers or figuring out if something is true or false. The Control Unit makes sure everything happens in the right order.
 
-Imagine the CPU as a chef in a kitchen. The chef (CPU) has a recipe (instructions) to follow. The kitchen tools (registers) help the chef keep things organized, and the pantry (cache memory) has ingredients (data) ready for quick use.
+Inside the CPU, there are special parts like the **Arithmetic Logic Unit (ALU)** and the **Control Unit**. The ALU does math and logical operations, like adding numbers or figuring out if something is true or false. The Control Unit makes sure everything happens in the right order.
 
-Clock speed is like how fast the chef can work. The faster, the better! And if the chef has more assistants (cores), they can work together on different tasks at the same time.
+Imagine the CPU as a chef in a kitchen. The chef (CPU) has a recipe (instructions) to follow. The kitchen tools (**registers**) help the chef keep things organized, and the pantry (**cache memory**) has ingredients (**data**) ready for quick use.
+
+Clock speed is like how fast the chef can work. The faster, the better! And if the chef has more assistants (**cores**), they can work together on different tasks at the same time.
 
 Now, let's talk about memory. Just like you have a short-term memory to remember things for a short while, the CPU has something called RAM. It helps the CPU work with information quickly, but it forgets everything when you turn off your computer.
 
