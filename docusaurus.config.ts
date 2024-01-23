@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "Pathways to Dighital Employment",
+  tagline: "Unlocking Potential, Crafting Futures: Learn, Shine, Succeed.",
   favicon: "img/pde-logo.png",
 
   // Set the production url of your site here
@@ -161,7 +161,7 @@ const config: Config = {
             },
             {
               label: "WhatsApp",
-              href: "https://chat.whatsapp.com/F4kTZOgxoiM2AD475drWqS",
+              href: "https://chat.whatsapp.com/FwoP7nh5HrpBfYDVP9HuGt",
             },
           ],
         },
