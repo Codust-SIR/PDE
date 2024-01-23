@@ -28,13 +28,3 @@
   display: block;
   border-radius: 10px;
 }
-
-.welcome-message-container {
-
-}
-
-@media only screen and (min-width: 768px) {
-  .welcome-message-containe {
-    display: flex; /* Change display to flex on larger screens */
-  }
-}
