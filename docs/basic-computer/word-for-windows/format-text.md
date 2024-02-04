@@ -21,7 +21,9 @@ To make a list stand out:
 - Choose the Bullets icon.
 - Your text is now in a bulleted list!
 
-![](https://lh7-us.googleusercontent.com/kAFy-D_2LAjI2EkkNICfLFHtLu5Z9MZzlCS1Y4pHpngASCddNTKsHp845fviIeXMyaQyV2p422DthBq1lW2BaqUvRswvBuA8XaeXlHMeQt2ea6JtUeSq3N9TG4DOWrwukfipxG2bYZ_VO8zskfmTAyQ) 2. Creating a Numbered List
+![](https://lh7-us.googleusercontent.com/kAFy-D_2LAjI2EkkNICfLFHtLu5Z9MZzlCS1Y4pHpngASCddNTKsHp845fviIeXMyaQyV2p422DthBq1lW2BaqUvRswvBuA8XaeXlHMeQt2ea6JtUeSq3N9TG4DOWrwukfipxG2bYZ_VO8zskfmTAyQ) 
+
+2. Creating a Numbered List
 
 For an ordered sequence:
 
