@@ -26,7 +26,7 @@ Our comprehensive course is designed to equip you with the fundamental knowledge
 
 ## Motto
 
-\*\*Unlocking Potential, Crafting Futures: Learn, Shine, Succeed.
+**_Unlocking Potential, Crafting Futures: Learn, Shine, Succeed._**
 
 ## Get Started
 

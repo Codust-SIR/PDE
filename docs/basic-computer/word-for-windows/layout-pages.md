@@ -39,7 +39,7 @@ Enhance the visual appeal of your document with a page border:
 - Choose Page Borders and customize the border settings.
   ![](https://lh7-us.googleusercontent.com/11xciMBkGDRHDIZ381NrNVLcsjI2R0gA8ywPjxaxlHzm1gZWFBUKlYBXpMRp4cEmYu8wILi6YuNt3Zx88IgZzkBk4eH0maacyRTytcBINfOGumYmV80sO-kO95L7m36xT4SrCJvQagjzhldzCGsWZjA)
 
-### Insert a header or footer
+## Insert a header or footer
 
 Headers and footers can contain page numbers, dates, or other information:
 
