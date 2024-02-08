@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Pathways to Dighital Employment",
+  title: "Pathways to Digital Employment",
   tagline: "Unlocking Potential, Crafting Futures: Learn, Shine, Succeed.",
   favicon: "img/pde-logo.png",
 

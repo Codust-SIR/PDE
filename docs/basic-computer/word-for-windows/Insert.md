@@ -102,14 +102,14 @@ Double-click the WordArt that you want to remove, and then press Delete.
 
 ## Wrap text around a picture in Word
 
-1.  Select the picture.
-2.  Select Layout Options.
+1. Select the picture.
+2. Select Layout Options.
 
 ![Layout image button on a selected picture](https://lh7-us.googleusercontent.com/-Tdknd0bCGVlspwJw4iwy27Bj-Sz4s1EuaAz83spc6FQxC9mSRRzqrMVgGxAjZgyLaQZlswn2l0JyAJcADiyIePKexjp92YSJM3P28-iac5qQptiWwDi6V3vUbbL_wtytfqmaAHs9KskrfIcEfZMc_k)
 
-3.  Select the layout you want.
+3. Select the layout you want.
 
-Tip: In Line with Text puts the picture in a paragraph, just as if it were text. The picture will change position as text is added or removed. The other choices let you move the picture around on the page, with text flowing around it.
+`Tip: In Line with Text puts the picture in a paragraph, just as if it were text. The picture will change position as text is added or removed. The other choices let you move the picture around on the page, with text flowing around it.`
 
 Position a picture in the upper-left corner of a document
 
@@ -145,7 +145,7 @@ You can add a picture in the center of a document and have the text flow around 
 
 You can add an image in your document and make the text flow around it in a way that follows the shape of the image.
 
-Tip: For best results, use a picture with a transparent, white, or solid colored background.
+`Tip: For best results, use a picture with a transparent, white, or solid colored background.`
 
 ![Text wrapped around a diamond-shaped image](https://lh7-us.googleusercontent.com/QvUG4KldNKJu1RcIZlLDK5NnRdRDslfp2VHRbxrV1qJDiVPCLVV9xs_22qLTVUk0rKzmMqG17dx66HP3RsizAVtBEjU8DyyJh0ISMDAy5Y0NLcL4UrzmJ-J08ERh4XjqxKkpafN2LmO5wvUVVVs3dPE)
 
