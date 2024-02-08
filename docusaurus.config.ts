@@ -37,14 +37,13 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Codust-SIR/PDE.git/",
+          editUrl: "https://github.com/Codust-SIR/PDE/tree/master/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/Codust-SIR/PDE.git/",
+          // editUrl: "https://github.com/Codust-SIR/PDE.git/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -69,7 +68,6 @@ const config: Config = {
           position: "left",
           label: "Courses",
         },
-        { to: "/blog", label: "Blog", position: "left" },
 
         {
           href: "https://github.com/Codust-SIR",

@@ -1,4 +1,6 @@
 import clsx from "clsx";
+import React from "react";
+import {} from "@docusaurus/router";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import Heading from "@theme/Heading";
@@ -35,6 +37,7 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <WelcomeMessage />
+        <CourseModules />
       </main>
     </Layout>
   );
@@ -96,6 +99,49 @@ const WelcomeMessage = () => {
             marginRight: "auto",
           }}
         />
+      </div>
+    </div>
+  );
+};
+
+const CourseModules = () => {
+  return (
+    <div className={clsx("modules", styles.modules)}>
+      <h1>Course Modules</h1>
+      <br />
+      <br />
+      <div className={clsx("grid", styles.grid)}>
+        <a
+          href="/docs/category/basic-computer"
+          className={clsx("card", styles.card)}
+        >
+          <img src="img/Microsoft365.png" alt="office" />
+          <h3>Basic Microsoft 365</h3>
+        </a>
+        <a className={clsx("card", styles.card)}>
+          <img src="img/img2.png" alt="office" />
+          <h3>Navigating the Internet</h3>
+        </a>
+        <a className={clsx("card", styles.card)}>
+          <img src="img/img3.png" alt="office" />
+          <h3>Online Safety and Security</h3>
+        </a>
+        <a className={clsx("card", styles.card)}>
+          <img src="img/img4.png" alt="office" />
+          <h3>Creating a Polished Resume and Cover Letter</h3>
+        </a>
+        <a className={clsx("card", styles.card)}>
+          <img src="img/img5.png" alt="office" />
+          <h3>Develop Your Professional Network</h3>
+        </a>
+        <a className={clsx("card", styles.card)}>
+          <img src="img/img6.png" alt="office" />
+          <h3>Job Hunting</h3>
+        </a>
+        <a className={clsx("card", styles.card)}>
+          <img src="img/img7.png" alt="office" />
+          <h3>Preparing for a Job interviews</h3>
+        </a>
       </div>
     </div>
   );
