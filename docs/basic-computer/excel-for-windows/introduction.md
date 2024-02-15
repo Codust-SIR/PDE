@@ -41,7 +41,7 @@ Excel is typically used for:
 - Select Blank workbook.
 - Or press Ctrl+N.
 
-![](https://lh7-us.googleusercontent.com/49eTYSbZKAESHcAhsLcXEGCVrg_iNC-iMP6Q-zM9ptp1sJURCtignJXA-58cmRssatyRoLFCfjSCC3xp3r15lkHK5u9cdqPPjHq3x0LzyHe2FLxAefgbLPojYvlj14bRNRtJLdESNBJ4Fpyi1_Xi9lA)
+![wa](https://lh7-us.googleusercontent.com/49eTYSbZKAESHcAhsLcXEGCVrg_iNC-iMP6Q-zM9ptp1sJURCtignJXA-58cmRssatyRoLFCfjSCC3xp3r15lkHK5u9cdqPPjHq3x0LzyHe2FLxAefgbLPojYvlj14bRNRtJLdESNBJ4Fpyi1_Xi9lA)
 
 **Enter data**
 
