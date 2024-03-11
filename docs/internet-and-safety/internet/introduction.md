@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Computer and Communication
 
 Welcome to the world of computers and communications! In this chapter, we'll explore the fundamental concepts and technologies that form the backbone of modern computing and connectivity.
