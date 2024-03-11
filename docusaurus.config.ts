@@ -1,6 +1,7 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const config: Config = {
   title: "Pathways to Digital Employment",
@@ -66,7 +67,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Courses",
+          label: `Courses`,
         },
 
         {

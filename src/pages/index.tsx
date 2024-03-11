@@ -119,12 +119,8 @@ const CourseModules = () => {
           <h3>Basic Microsoft 365</h3>
         </a>
         <a className={clsx("card", styles.card)}>
-          <img src="img/img2.png" alt="office" />
-          <h3>Navigating the Internet</h3>
-        </a>
-        <a className={clsx("card", styles.card)}>
           <img src="img/img3.png" alt="office" />
-          <h3>Online Safety and Security</h3>
+          <h3>Navigating the Internet, Online Safety and Security</h3>
         </a>
         <a className={clsx("card", styles.card)}>
           <img src="img/img4.png" alt="office" />
