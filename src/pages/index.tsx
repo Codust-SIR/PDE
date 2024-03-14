@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import React from "react";
+import React, { useState } from "react";
 import {} from "@docusaurus/router";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
@@ -118,7 +118,10 @@ const CourseModules = () => {
           <img src="img/Microsoft365.png" alt="office" />
           <h3>Basic Microsoft 365</h3>
         </a>
-        <a className={clsx("card", styles.card)}>
+        <a
+          href="/docs/category/internet-and-online-safety-and-security"
+          className={clsx("card", styles.card)}
+        >
           <img src="img/img3.png" alt="office" />
           <h3>Navigating the Internet, Online Safety and Security</h3>
         </a>
@@ -142,3 +145,5 @@ const CourseModules = () => {
     </div>
   );
 };
+
+

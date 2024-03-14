@@ -1,0 +1,172 @@
+# Internet Privacy
+
+### What is Internet Privacy?
+
+Internet Privacy is the privacy and security level of personal data published via the Internet. It is a broad term that refers to a variety of factors, techniques and technologies used to protect sensitive and private data, communications and preferences.
+
+**If you get 5 questions wrong you will have to restart the badge from the beginning.**
+
+## E-Safety
+
+### Privacy Settings
+
+Consider the privacy settings in the picture below.  
+Which applications would you choose to grant access to your photos if they requested access?
+
+Flick the switch next to the applications you would grant access to your photos.
+
+import React, { useState } from "react";
+
+export const YourComponent = () => {
+  const initialButtonSrc =
+    "https://enache.idea.org.uk/viber/assets/button-off.jpg";
+  const [buttonSrcs, setButtonSrcs] = useState(Array(8).fill(initialButtonSrc));
+  const [messageNColor, setMessageNColor] = useState({
+    message: "",
+    color: "",
+  });
+  const handleButtonClick = (index) => {
+    // Toggle between button-on.jpg and button-off.jpg for the clicked button
+    const newButtonSrcs = [...buttonSrcs];
+    switch (index) {
+      case 0 && buttonSrcs:
+        setMessageNColor({
+          message:
+            "Good one. Facebook is a worldwide trusted application which is very unlikely to use your photos without your consent. Your photos are as private as you choose, so share carefully.",
+          color: "rgba(0, 200, 0, 0.2)",
+        });
+        break;
+      case 1:
+        setMessageNColor({
+          message:
+            "Marvellous. Messenger requests access to your photos when you wish to share them in a conversation.",
+          color: "rgba(0, 200, 0, 0.2)",
+        });
+        break;
+      case 2:
+        setMessageNColor({
+          message:
+            "Similar to Messenger, WhatsApp provides security for sharing your photos. Make sure you understand which of your photos are shared and with whom.",
+          color: "rgba(0, 200, 0, 0.2)",
+        });
+        break;
+      case 3:
+        setMessageNColor({
+          message:
+            "Music applications should not request access to your photos and it is worth checking that it is a genuine application and not a virus.",
+          color: "rgba(200,0,0,0.2)",
+        });
+        break;
+      case 4:
+        setMessageNColor({
+          message:
+            "Viber is also a trusted application. You should only grant access to your photos when you wish to upload a profile photo or share them with your friends.",
+          color: "rgba(0, 200, 0, 0.2)",
+        });
+        break;
+      case 5:
+        setMessageNColor({
+          message:
+            "A single player game should never be granted access to your photos or any other irrelevant data such as Contacts, Calendar or Location.",
+          color: "rgba(200,0,0,0.2)",
+        });
+        break;
+      case 6:
+        setMessageNColor({
+          message:
+            "A single player game should never be granted access to your photos or any other irrelevant data such as Contacts, Calendar or Location.",
+          color: "rgba(200,0,0,0.2)",
+        });
+        break;
+      case 7:
+        setMessageNColor({
+          message:
+            "You should only grant access to your photos when you wish to upload a profile photo or share them with your friends.",
+          color: "rgba(0, 200, 0, 0.2)",
+        });
+        break;
+      default:
+        setMessageNColor({
+          message: "",
+          color: "",
+        });
+        break;
+    }
+    newButtonSrcs[index] = buttonSrcs[index].includes("button-off.jpg")
+      ? "https://enache.idea.org.uk/viber/assets/button-on.jpg"
+      : "https://enache.idea.org.uk/viber/assets/button-off.jpg";
+    setButtonSrcs(newButtonSrcs);
+  };
+  return (
+    <div
+      style={{
+        height:"900px"
+      }}
+    >
+      <div
+        style={{
+          backgroundColor: messageNColor.color,
+          borderRadius: 10,
+          padding: 20,
+          width: "30vw",
+        }}
+      >
+        <p style={{ opacity: 1, transition: " all .5s ease-out" }}>
+          {messageNColor.message}
+        </p>
+      </div>
+
+      <br className="toshowonmobile clearfix" />
+
+      <div id="tochange" style={{ height: "auto" }}>
+        <img
+          src="https://enache.idea.org.uk/viber/assets/privacy1.png"
+          style={{
+            display: "inline-block",
+            verticalAlign: "top",
+            width: "400px",
+            position: "absolute",
+          }}
+          alt=""
+        />
+        <div
+          style={{
+            width: "350px",
+            height: "300px",
+            position: "absolute",
+            display: "inline-block",
+            marginTop: "183px",
+          }}
+          id="off-buttons"
+        >
+          {buttonSrcs.map((src, index) => (
+            <img
+              key={index}
+              style={{
+                width: "50px",
+                float: "right",
+                clear: "both",
+                marginTop: "12.5px",
+                cursor: "pointer",
+              }}
+              src={src}
+              onClick={() => handleButtonClick(index)}
+              alt=""
+            />
+          ))}
+        </div>
+      </div>
+    </div>
+
+);
+};
+
+<YourComponent />
+
+## You choose what you share
+
+- Always check your privacy settings and location settings on your mobile devices – your photographs may be automatically uploading to the Internet and your files may not be secure.
+
+- Make sure you forbid access to information or data that is unnecessarily shared.
+
+- Personal information such as Address, Telephone Number and Email Address should never be shared publicly.
