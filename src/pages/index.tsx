@@ -125,7 +125,14 @@ const CourseModules = () => {
           <img src="img/img3.png" alt="office" />
           <h3>Navigating the Internet, Online Safety and Security</h3>
         </a>
-        <a className={clsx("card", styles.card)}>
+        <a
+          href="/docs/category/career-readiness-mastery"
+          className={clsx("card", styles.card)}
+        >
+          <img src="img/img4.png" alt="office" />
+          <h3>Career Readiness Mastery: Navigating Your Path to Success.</h3>
+        </a>
+        {/* <a className={clsx("card", styles.card)}>
           <img src="img/img4.png" alt="office" />
           <h3>Creating a Polished Resume and Cover Letter</h3>
         </a>
@@ -140,10 +147,8 @@ const CourseModules = () => {
         <a className={clsx("card", styles.card)}>
           <img src="img/img7.png" alt="office" />
           <h3>Preparing for a Job interviews</h3>
-        </a>
+        </a> */}
       </div>
     </div>
   );
 };
-
-
